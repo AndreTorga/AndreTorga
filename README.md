@@ -24,4 +24,4 @@
   <a href = "mailto:andretorga4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0aoDias&layout=compact&langs_count=16&theme=dar"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreTorga&layout=compact&langs_count=16&theme=dar"/>
