@@ -4,9 +4,7 @@
 
 
 - 🌱 I’m currently learning Computer Engeneering
-- 💬 Ask me about Everything
 - 📫 How to reach me: Discord or insta
-- ⚡ Fun fact: I love Moelas!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
