@@ -1,9 +1,5 @@
 # 👋 Hi, I'm André Teixeira
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Industrial+Control+Systems+Security;Network+Security+Enthusiast;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 </div>
 
 ## About Me
