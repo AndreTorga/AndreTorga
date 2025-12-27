@@ -35,9 +35,8 @@ Learning **Advanced Threat Detection**, **Malware Analysis**, and **Security Aut
   <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/postgresql-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
-
 ---
 
 ## GitHub Statistics
