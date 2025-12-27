@@ -1,29 +1,24 @@
 name: Generate Snake
 
-# Controla quando o workflow vai correr
 on:
-  # Corre automaticamente a cada 12 horas
   schedule:
     - cron: "0 */12 * * *"
-  
-  # Permite correr manualmente
   workflow_dispatch:
-  
-  # Corre quando fazes push para a branch main
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     
     steps:
-      # Checkout do repositório
       - name: Checkout
         uses: actions/checkout@v3
       
-      # Gera a animação da cobra
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -32,7 +27,6 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
       
-      # Publica no GitHub Pages
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
