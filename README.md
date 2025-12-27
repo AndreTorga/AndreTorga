@@ -68,7 +68,7 @@ Learning **Advanced Threat Detection**, **Malware Analysis**, and **Security Aut
 
 ### Contribution Graph
 
-![Snake animation](https://github.com/AndreTorga/AndreTorga/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/AndreTorga/AndreTorga/output/github-snake.svg)
 
 ---
 
