@@ -66,5 +66,4 @@ Learning **Advanced Threat Detection**, **Malware Analysis**, and **Security Aut
 ---
 
 <img src="https://komarev.com/ghpvc/?username=AndreTorga&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-From AndreTorga
 </div>
