@@ -61,6 +61,12 @@ Learning **Advanced Threat Detection**, **Malware Analysis**, and **Security Aut
 
 <img src="https://komarev.com/ghpvc/?username=AndreTorga&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-**From [AndreTorga](https://github.com/AndreTorga)**
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreTorga/AndreTorga/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreTorga/AndreTorga/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AndreTorga/AndreTorga/output/github-snake.svg">
+  </picture>
+</div>
 
 </div>
