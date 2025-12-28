@@ -37,7 +37,6 @@ Learning **Advanced Threat Detection**, **Malware Analysis**, and **Security Aut
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
----
 
 ## Contact Me
 
