@@ -55,12 +55,6 @@ Learning **Advanced Threat Detection**, **Malware Analysis**, and **Security Aut
 
 ### Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/AndreTorga/AndreTorga/output/github-snake.svg)
-
----
-
-<img src="https://komarev.com/ghpvc/?username=AndreTorga&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreTorga/AndreTorga/output/github-snake-dark.svg">
@@ -69,4 +63,8 @@ Learning **Advanced Threat Detection**, **Malware Analysis**, and **Security Aut
   </picture>
 </div>
 
+---
+
+<img src="https://komarev.com/ghpvc/?username=AndreTorga&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+From AndreTorga
 </div>
