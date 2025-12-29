@@ -52,14 +52,10 @@ Learning **Advanced Threat Detection**, **Malware Analysis**, and **Security Aut
 
 <div align="center">
 
-### Contribution Graph
+### Contribution Graph>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreTorga/AndreTorga/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreTorga/AndreTorga/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AndreTorga/AndreTorga/output/github-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/AndreTorga/AndreTorga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
