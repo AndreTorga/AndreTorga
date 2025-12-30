@@ -19,7 +19,6 @@ Learning **Advanced Threat Detection**, **Malware Analysis**, and **Security Aut
   <img alt="Metasploit" height="40" width="40" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg">
   <img alt="Kali Linux" height="40" width="40" src="https://www.kali.org/images/kali-logo.svg">
   <img alt="OpenVAS" height="40" width="40" src="https://avatars.githubusercontent.com/u/11559164?s=200&v=4">
-  <img alt="Nikto" height="40" width="40" src="https://cirt.net/files/nikto_logo.png">
   <img alt="tcpdump" height="40" width="40" src="https://www.tcpdump.org/images/logo.png">
 </div>
 
@@ -31,7 +30,6 @@ Learning **Advanced Threat Detection**, **Malware Analysis**, and **Security Aut
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Bash" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="PowerShell" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg">
-  <img align="center" alt="Assembly" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Antu_application-x-executable.svg">
   <img align="center" alt="MATLAB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
 </div>
 
