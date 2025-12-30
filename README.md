@@ -16,7 +16,6 @@ Learning **Advanced Threat Detection**, **Malware Analysis**, and **Security Aut
   <img alt="Suricata" height="40" width="40" src="https://avatars.githubusercontent.com/u/13409498?s=200&v=4">
   <img alt="Wireshark" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg">
   <img alt="Nmap" height="40" width="50" src="https://nmap.org/images/sitelogo.png">
-  <img alt="Metasploit" height="40" width="40" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg">
   <img alt="Kali Linux" height="40" width="40" src="https://www.kali.org/images/kali-logo.svg">
   <img alt="OpenVAS" height="40" width="40" src="https://avatars.githubusercontent.com/u/11559164?s=200&v=4">
   <img alt="tcpdump" height="40" width="40" src="https://www.tcpdump.org/images/logo.png">
