@@ -11,31 +11,40 @@ Learning **Advanced Threat Detection**, **Malware Analysis**, and **Security Aut
 
 ## 🛠️ Tech Stack & Skills
 
-### Cybersecurity Tools
+### 🔒 Cybersecurity Tools
 <div align="left">
   <img alt="Suricata" height="40" width="40" src="https://avatars.githubusercontent.com/u/13409498?s=200&v=4">
   <img alt="Wireshark" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg">
   <img alt="Nmap" height="40" width="50" src="https://nmap.org/images/sitelogo.png">
   <img alt="Metasploit" height="40" width="40" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg">
   <img alt="Kali Linux" height="40" width="40" src="https://www.kali.org/images/kali-logo.svg">
+  <img alt="OpenVAS" height="40" width="40" src="https://avatars.githubusercontent.com/u/11559164?s=200&v=4">
+  <img alt="Nikto" height="40" width="40" src="https://cirt.net/files/nikto_logo.png">
+  <img alt="tcpdump" height="40" width="40" src="https://www.tcpdump.org/images/logo.png">
 </div>
 
-### Programming Languages
+### 💻 Programming Languages
 <div align="left">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Bash" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="PowerShell" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg">
+  <img align="center" alt="Assembly" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Antu_application-x-executable.svg">
+  <img align="center" alt="MATLAB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
 </div>
 
-### Databases & Systems
+### 🗄️ Databases & Systems
 <div align="left">
   <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Ubuntu" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="GitLab" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Nginx" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
 </div>
 
 ## Contact Me
